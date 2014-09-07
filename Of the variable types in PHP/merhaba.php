@@ -1,7 +1,6 @@
 <Head>
 <Title>PHP'de Degisken Turleri</Title>
-<meta http-equiv="content-type" content="text/html; charset=ISO-8859-9">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+
 </Head>
 <Body>
 <B>
